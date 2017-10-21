@@ -5,5 +5,5 @@ Code is from the following competitions:
 
 -Microsoft Coding Competition / 2 hours (September 21, 2017): Team of 3
   9th out of ~70 teams
--IEEEXtreme Coding Competition / 24 hours (October 13/14, 2017): Team of 3
+ -IEEEXtreme Coding Competition / 24 hours (October 13/14, 2017): Team of 3
   Top 12% out of around ~3500 teams
