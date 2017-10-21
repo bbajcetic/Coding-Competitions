@@ -4,7 +4,7 @@ Just uploaded a bunch of source code from different problems I've worked on from
 Code is from the following competitions:
 
 -Microsoft Coding Competition / 2 hours (September 21, 2017): Team of 3
-  Scored 9th out of ~70 teams 
+  Scored 9th out of ~70 teams mj
  
  -IEEEXtreme Coding Competition / 24 hours (October 13/14, 2017): Team of 3
   Scored Top 12% out of around ~3500 teams
