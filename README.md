@@ -7,10 +7,6 @@ Code is from the following competitions:
  Scored 9th out of ~70 teams
  
  -IEEEXtreme Coding Competition / 24 hours (October 13/14, 2017): Team of 3
+ 
  Scored Top 12% out of around ~3500 teams
-
-
-
-
-
-
+ 
