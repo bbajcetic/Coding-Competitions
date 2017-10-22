@@ -4,7 +4,6 @@ Just uploaded a bunch of source code from different problems I've worked on from
 Code is from the following competitions:
 
 -Microsoft Coding Competition / 2 hours (September 21, 2017): Team of 3
-
     Scored 9th out of ~70 teams
  
  
